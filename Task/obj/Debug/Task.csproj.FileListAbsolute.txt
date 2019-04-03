@@ -1,0 +1,10 @@
+C:\Users\AronThomasMiller\source\repos\Task\Task\bin\Debug\Task.dll
+C:\Users\AronThomasMiller\source\repos\Task\Task\bin\Debug\Task.pdb
+C:\Users\AronThomasMiller\source\repos\Task\Task\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AronThomasMiller\source\repos\Task\Task\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\AronThomasMiller\source\repos\Task\Task\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AronThomasMiller\source\repos\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+C:\Users\AronThomasMiller\source\repos\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\AronThomasMiller\source\repos\Task\Task\obj\Debug\Task.csproj.CopyComplete
+C:\Users\AronThomasMiller\source\repos\Task\Task\obj\Debug\Task.dll
+C:\Users\AronThomasMiller\source\repos\Task\Task\obj\Debug\Task.pdb
